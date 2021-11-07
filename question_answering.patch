@@ -1,4 +1,4 @@
 409c409
 <                 min_null_score = min(min_null_score, (start_[0] * end_[0]).item())
 ---
->                 min_null_score = min(min_null_score, (np.max(start_[0] * end_[0])).item())
+>                 min_null_score = min(min_null_score, np.max(start_[0]) * np.max(end_[0] * 1.5).item())
