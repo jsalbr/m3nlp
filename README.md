@@ -1,4 +1,4 @@
-# m3nlp
+# Heise M3 NLP-Konferenz: Question Answering
 
 Unterlagen zum Vortrag 
 
