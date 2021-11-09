@@ -1,4 +1,0 @@
-409c409
-<                 min_null_score = min(min_null_score, (start_[0] * end_[0]).item())
----
->                 min_null_score = min(min_null_score, (start_[0, 0] * end_[0, 0]).item())
