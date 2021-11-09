@@ -10,5 +10,5 @@ Jupyter Notebook: [hier anschauen](Question_Answering.ipynb) oder [in Google Col
 
 Und noch eine kleine Werbung für unser Buch (wo allerdings Question Answering nicht thematisiert wird):
 
-<img src="https://learning.oreilly.com/library/cover/9781492074076/250w/" width="300">
+<img src="https://learning.oreilly.com/library/cover/9781492074076/250w/" width="200">
 
