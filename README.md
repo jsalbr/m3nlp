@@ -8,7 +8,8 @@ auf der [Heise M3 NLP-Konferenz](https://www.m3-konferenz.de/nlp.php#programm) a
 
 Jupyter Notebook: [hier anschauen](Question_Answering.ipynb) oder [in Google Colab öffnen](https://colab.research.google.com/github/jsalbr/m3nlp/blob/main/Question_Answering.ipynb)
 
-Und noch eine kleine Werbung für unser Buch (wo allerdings Question Answering nicht thematisiert wird):
+Noch eine kleine Werbung für unser Buch (wo allerdings Question Answering nicht thematisiert wird):
 
 <img src="https://learning.oreilly.com/library/cover/9781492074076/250w/" width="200">
 
+https://github.com/blueprints-for-text-analytics-python/blueprints-text
